@@ -6,5 +6,13 @@
     "class": "Class 11",
     "fee": "800",
     "enrollDate": "2026-04-01"
+  },
+  {
+    "id": "mp70pjpbg1uy",
+    "name": "chandhrikga",
+    "phone": "9578141312",
+    "class": "Class 10",
+    "fee": "700",
+    "enrollDate": "2026-05-01"
   }
 ]
