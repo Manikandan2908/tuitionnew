@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "mp70v31hdeyy",
+    "studentId": "mp6zf1dyvptq",
+    "feeTypeId": "mp6zjac5f4gl",
+    "amount": "700",
+    "period": "",
+    "dueDate": "2026-05-01",
+    "createdAt": "2026-05-15"
+  }
+]
