@@ -10,9 +10,13 @@
     "marks": [
       {
         "studentId": "mp6zf1dyvptq",
-        "obtained": 60
+        "obtained": 50
+      },
+      {
+        "studentId": "mp70pjpbg1uy",
+        "obtained": 45
       }
     ],
-    "updatedAt": "2026-05-15T14:29:00.146Z"
+    "updatedAt": "2026-05-15T14:40:07.626Z"
   }
 ]
