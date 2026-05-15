@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mp70jgxf3768",
+    "createdAt": "2026-05-15",
+    "name": "15.06.2026",
+    "subject": "maths",
+    "date": "2026-05-15",
+    "totalMarks": 50,
+    "class": "",
+    "marks": [
+      {
+        "studentId": "mp6zf1dyvptq",
+        "obtained": 60
+      }
+    ],
+    "updatedAt": "2026-05-15T14:29:00.146Z"
+  }
+]
