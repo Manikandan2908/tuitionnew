@@ -7,5 +7,14 @@
     "period": "",
     "dueDate": "2026-05-01",
     "createdAt": "2026-05-15"
+  },
+  {
+    "id": "mp7x8n27no3f",
+    "studentId": "mp6zf1dyvptq",
+    "feeTypeId": "mp6zjac5f4gl",
+    "amount": "800",
+    "period": "",
+    "dueDate": "2026-05-31",
+    "createdAt": "2026-05-16"
   }
 ]
