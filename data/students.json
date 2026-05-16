@@ -21,6 +21,8 @@
     "phone": "9587456123",
     "class": "Class 12",
     "fee": "800",
-    "enrollDate": "2026-05-16"
+    "enrollDate": "2026-05-16",
+    "closeDate": "2026-06-30",
+    "status": "active"
   }
 ]
