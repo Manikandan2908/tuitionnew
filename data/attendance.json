@@ -8,19 +8,35 @@
     "status": "Present"
   },
   {
-    "id": "mp6zfgpak0ez",
-    "date": "2026-05-16",
-    "studentId": "mp6zf1dyvptq",
-    "name": "GANANADHAN",
-    "class": "10",
-    "status": "Absent"
-  },
-  {
     "id": "mp702v2bjptv",
     "date": "2026-06-01",
     "studentId": "mp6zf1dyvptq",
     "name": "GANANADHAN",
     "class": "Class 11",
+    "status": "Present"
+  },
+  {
+    "id": "mp7x0e4x2zfs",
+    "date": "2026-05-16",
+    "studentId": "mp6zf1dyvptq",
+    "name": "GANANADHAN",
+    "class": "Class 11",
+    "status": "Present"
+  },
+  {
+    "id": "mp7x0e4x5urc",
+    "date": "2026-05-16",
+    "studentId": "mp70pjpbg1uy",
+    "name": "chandhrikga",
+    "class": "Class 10",
+    "status": "Absent"
+  },
+  {
+    "id": "mp7x0e4x7vlw",
+    "date": "2026-05-16",
+    "studentId": "mp70qd4ysi55",
+    "name": "Yeshwanth",
+    "class": "Class 12",
     "status": "Present"
   }
 ]
