@@ -9,5 +9,16 @@
     "date": "2026-05-17",
     "note": "",
     "recordedAt": "2026-05-17T01:04:03.270Z"
+  },
+  {
+    "id": "mp9wh55kh41q",
+    "studentId": "mp6zf1dyvptq",
+    "feeTypeId": "",
+    "feeAssignmentId": "",
+    "feeTypeName": "",
+    "amount": "800",
+    "date": "2026-05-17",
+    "note": "",
+    "recordedAt": "2026-05-17T14:58:31.640Z"
   }
 ]
