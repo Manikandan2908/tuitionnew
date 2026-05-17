@@ -62,5 +62,29 @@
     "name": "Yeshwanth",
     "class": "Class 12",
     "status": "Present"
+  },
+  {
+    "id": "mp9w84med6ul",
+    "date": "2026-05-18",
+    "studentId": "mp6zf1dyvptq",
+    "name": "GANANADHAN",
+    "class": "Class 11",
+    "status": "Absent"
+  },
+  {
+    "id": "mp9w84mejk0k",
+    "date": "2026-05-18",
+    "studentId": "mp70pjpbg1uy",
+    "name": "chandhrikga",
+    "class": "Class 10",
+    "status": "Absent"
+  },
+  {
+    "id": "mp9w84me6m81",
+    "date": "2026-05-18",
+    "studentId": "mp70qd4ysi55",
+    "name": "Yeshwanth",
+    "class": "Class 12",
+    "status": "Absent"
   }
 ]
