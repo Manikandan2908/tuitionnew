@@ -13,7 +13,9 @@
     "phone": "9578141312",
     "class": "Class 10",
     "fee": "700",
-    "enrollDate": "2026-05-01"
+    "enrollDate": "2026-05-01",
+    "closeDate": "",
+    "status": "inactive"
   },
   {
     "id": "mp70qd4ysi55",
