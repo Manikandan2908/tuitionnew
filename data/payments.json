@@ -1,1 +1,38 @@
-[{"id":"mplf0xyew9k9ph","studentId":"mp70pjpbg1uy","feeTypeId":"mplf0h1orlp7z1","feeAssignmentId":"mplf0i41kiew2j","feeTypeName":"Monthly Tuition","period":"May 2026","amount":"700","date":"2026-05-25","note":"Paid Cash / UPI","recordedAt":"2026-05-25T21:53:16Z"},{"id":"mplf10jfsy0pgn","studentId":"mp70qd4ysi55","feeTypeId":"mplf0h1orlp7z1","feeAssignmentId":"mplf0i42bucz4g","feeTypeName":"Monthly Tuition","period":"May 2026","amount":"800","date":"2026-05-25","note":"Paid Cash / UPI","recordedAt":"2026-05-25T21:53:19Z"},{"id":"mplf14uzmamy9o","studentId":"mp6zf1dyvptq","feeTypeId":"mplf0h1orlp7z1","feeAssignmentId":"mplf0i40wtn89g","feeTypeName":"Monthly Tuition","period":"May 2026","amount":"800","date":"2026-05-25","note":"Paid Cash / UPI","recordedAt":"2026-05-25T21:53:25Z"},{"id":"mplf385fz13juf","studentId":"mp70pjpbg1uy","feeTypeId":"mplf0h1orlp7z1","feeAssignmentId":"mplf2qznvgc0n5","feeTypeName":"Monthly Tuition","period":"May 2026","amount":"700","date":"2026-05-25","note":"Paid Cash / UPI","recordedAt":"2026-05-25T21:55:02Z"}]
+[
+  {
+    "id": "mplf0xyew9k9ph",
+    "studentId": "mp70pjpbg1uy",
+    "feeTypeId": "mplf0h1orlp7z1",
+    "feeAssignmentId": "mplf0i41kiew2j",
+    "feeTypeName": "Monthly Tuition",
+    "period": "May 2026",
+    "amount": "700",
+    "date": "2026-05-25",
+    "note": "Paid Cash / UPI",
+    "recordedAt": "2026-05-25T21:53:16Z"
+  },
+  {
+    "id": "mplf10jfsy0pgn",
+    "studentId": "mp70qd4ysi55",
+    "feeTypeId": "mplf0h1orlp7z1",
+    "feeAssignmentId": "mplf0i42bucz4g",
+    "feeTypeName": "Monthly Tuition",
+    "period": "May 2026",
+    "amount": "800",
+    "date": "2026-05-25",
+    "note": "Paid Cash / UPI",
+    "recordedAt": "2026-05-25T21:53:19Z"
+  },
+  {
+    "id": "mplf14uzmamy9o",
+    "studentId": "mp6zf1dyvptq",
+    "feeTypeId": "mplf0h1orlp7z1",
+    "feeAssignmentId": "mplf0i40wtn89g",
+    "feeTypeName": "Monthly Tuition",
+    "period": "May 2026",
+    "amount": "800",
+    "date": "2026-05-25",
+    "note": "Paid Cash / UPI",
+    "recordedAt": "2026-05-25T21:53:25Z"
+  }
+]
