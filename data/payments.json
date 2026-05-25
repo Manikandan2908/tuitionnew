@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "mplbr99eyf40",
+    "studentId": "mp6zf1dyvptq",
+    "feeTypeId": "mp7xowigk04r",
+    "feeAssignmentId": "mp7xsmnc456u",
+    "feeTypeName": "Class 9,10",
+    "amount": "700",
+    "date": "2026-05-25",
+    "note": "",
+    "recordedAt": "2026-05-25T14:51:45.698Z"
+  }
+]
