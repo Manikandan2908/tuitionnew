@@ -86,5 +86,21 @@
     "name": "Yeshwanth",
     "class": "Class 12",
     "status": "Absent"
+  },
+  {
+    "id": "mplbt9rivojt",
+    "date": "2026-05-25",
+    "studentId": "mp6zf1dyvptq",
+    "name": "GANANADHAN",
+    "class": "Class 11",
+    "status": "Present"
+  },
+  {
+    "id": "mplbt9ri771p",
+    "date": "2026-05-25",
+    "studentId": "mp70qd4ysi55",
+    "name": "Yeshwanth",
+    "class": "Class 12",
+    "status": "Present"
   }
 ]
