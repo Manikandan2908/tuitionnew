@@ -1,11 +1,1 @@
-[
-  {
-    "id": "mp7xsmnc456u",
-    "studentId": "mp6zf1dyvptq",
-    "feeTypeId": "mp7xowigk04r",
-    "amount": "700",
-    "period": "",
-    "dueDate": "2026-05-31",
-    "createdAt": "2026-05-16"
-  }
-]
+[{"id":"mp7xsmnc456u","studentId":"mp6zf1dyvptq","feeTypeId":"mp7xowigk04r","amount":"700","period":"","dueDate":"2026-05-31","createdAt":"2026-05-16"},{"id":"mpldct1f2ou0kr","studentId":"mp6zf1dyvptq","feeTypeId":"mpldcrt6d6pres","amount":"800","period":"May 2026","dueDate":"2026-05-10","createdAt":"2026-05-25","autoAssigned":true},{"id":"mpldct1g009hag","studentId":"mp70qd4ysi55","feeTypeId":"mpldcrt6d6pres","amount":"800","period":"May 2026","dueDate":"2026-05-10","createdAt":"2026-05-25","autoAssigned":true}]
