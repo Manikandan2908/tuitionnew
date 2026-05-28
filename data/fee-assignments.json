@@ -8,5 +8,35 @@
     "dueDate": "2026-05-31",
     "createdAt": "2026-05-26",
     "autoAssigned": true
+  },
+  {
+    "id": "mpow7lggta3e",
+    "studentId": "mp70pjpbg1uy",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "May 2026",
+    "dueDate": "2026-05-31",
+    "createdAt": "2026-05-28",
+    "autoAssigned": true
+  },
+  {
+    "id": "mpow7lggio2c",
+    "studentId": "mp70qd4ysi55",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "May 2026",
+    "dueDate": "2026-05-31",
+    "createdAt": "2026-05-28",
+    "autoAssigned": true
+  },
+  {
+    "id": "mpow7lgg2b1g",
+    "studentId": "mpmtjt7gctim",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "600",
+    "period": "May 2026",
+    "dueDate": "2026-05-31",
+    "createdAt": "2026-05-28",
+    "autoAssigned": true
   }
 ]
