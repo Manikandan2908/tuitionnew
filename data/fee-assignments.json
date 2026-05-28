@@ -28,15 +28,5 @@
     "dueDate": "2026-05-31",
     "createdAt": "2026-05-28",
     "autoAssigned": true
-  },
-  {
-    "id": "mpow7lgg2b1g",
-    "studentId": "mpmtjt7gctim",
-    "feeTypeId": "mpldcrt6d6pres",
-    "amount": "600",
-    "period": "May 2026",
-    "dueDate": "2026-05-31",
-    "createdAt": "2026-05-28",
-    "autoAssigned": true
   }
 ]
