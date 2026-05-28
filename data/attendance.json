@@ -160,15 +160,15 @@
     "status": "Holiday"
   },
   {
-    "id": "mpmtkmsyxs88",
+    "id": "mpowa3uvqtey",
     "date": "2026-06-01",
     "studentId": "mp6zf1dyvptq",
     "name": "GANANADHAN",
     "class": "Class 11",
-    "status": "Present"
+    "status": "Holiday"
   },
   {
-    "id": "mpmtkmsylhpn",
+    "id": "mpowa3uv9v19",
     "date": "2026-06-01",
     "studentId": "mpldbr6a4smu2c",
     "name": "",
@@ -176,27 +176,27 @@
     "status": "Present"
   },
   {
-    "id": "mpmtkmsyasar",
+    "id": "mpowa3uvdnmp",
     "date": "2026-06-01",
     "studentId": "mp70pjpbg1uy",
     "name": "chandhrikga",
     "class": "Class 10",
-    "status": "Absent"
+    "status": "Holiday"
   },
   {
-    "id": "mpmtkmsyqj66",
+    "id": "mpowa3uv78ed",
     "date": "2026-06-01",
     "studentId": "mp70qd4ysi55",
     "name": "Yeshwanth",
     "class": "Class 12",
-    "status": "Present"
+    "status": "Holiday"
   },
   {
-    "id": "mpmtkmsy9d4w",
+    "id": "mpowa3uvoym6",
     "date": "2026-06-01",
     "studentId": "mpmtjt7gctim",
     "name": "MANIKANDAN S",
     "class": "Class 8",
-    "status": "Present"
+    "status": "Holiday"
   }
 ]
