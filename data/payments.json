@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "mpow8hldopgr",
+    "studentId": "mp70qd4ysi55",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "mpow7lggio2c",
+    "feeTypeName": "Monthly Tuition",
+    "period": "June 2026",
+    "amount": "800",
+    "date": "2026-05-28",
+    "note": "",
+    "recordedAt": "2026-05-28T02:48:20.497Z"
+  }
+]
