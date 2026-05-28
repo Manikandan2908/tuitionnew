@@ -12,18 +12,6 @@
     "recordedAt": "2026-05-28T02:48:20.497Z"
   },
   {
-    "id": "mpow8o3jzco6",
-    "studentId": "mp70pjpbg1uy",
-    "feeTypeId": "mpldcrt6d6pres",
-    "feeAssignmentId": "mpow7lggta3e",
-    "feeTypeName": "Monthly Tuition",
-    "period": "June 2026",
-    "amount": "700",
-    "date": "2026-05-28",
-    "note": "",
-    "recordedAt": "2026-05-28T02:48:28.927Z"
-  },
-  {
     "id": "mpow8tsh71jk",
     "studentId": "mp6zf1dyvptq",
     "feeTypeId": "mpldcrt6d6pres",
