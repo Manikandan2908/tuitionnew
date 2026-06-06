@@ -21,6 +21,14 @@
       "name": "PUNNA",
       "class": "Class 12",
       "status": "Holiday"
+    },
+    {
+      "id": "2026-06-06-4ff6cd55-91de-40a5-8444-a8bc65012bb6",
+      "date": "2026-06-06",
+      "studentId": "4ff6cd55-91de-40a5-8444-a8bc65012bb6",
+      "name": "MANIKANDAN ",
+      "class": "Class 12",
+      "status": "Present"
     }
   ],
   "feeTypes": [
