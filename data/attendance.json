@@ -230,5 +230,37 @@
     "name": "GANANADHAN",
     "class": "Class 11",
     "status": "Leave"
+  },
+  {
+    "id": "2026-06-05-mp70qd4ysi55",
+    "date": "2026-06-05",
+    "studentId": "mp70qd4ysi55",
+    "name": "Yeshwanth",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "2026-06-05-mp70pjpbg1uy",
+    "date": "2026-06-05",
+    "studentId": "mp70pjpbg1uy",
+    "name": "chandhrikga",
+    "class": "Class 10",
+    "status": "Present"
+  },
+  {
+    "id": "2026-06-05-mpmtjt7gctim",
+    "date": "2026-06-05",
+    "studentId": "mpmtjt7gctim",
+    "name": "MANIKANDAN S",
+    "class": "Class 8",
+    "status": "Present"
+  },
+  {
+    "id": "2026-06-05-mp6zf1dyvptq",
+    "date": "2026-06-05",
+    "studentId": "mp6zf1dyvptq",
+    "name": "GANANADHAN",
+    "class": "Class 11",
+    "status": "Present"
   }
 ]
