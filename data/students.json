@@ -46,5 +46,16 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mq2kwdurb37v",
+    "name": "LITHISH 9TH",
+    "phone": "9791172661",
+    "class": "Class 9",
+    "fee": "700",
+    "enrollDate": "2026-06-08",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
