@@ -68,5 +68,16 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mq2kxybjqafi",
+    "name": "KALATHEESH",
+    "phone": "9791685122",
+    "class": "Class 12",
+    "fee": "800",
+    "enrollDate": "2026-06-08",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
