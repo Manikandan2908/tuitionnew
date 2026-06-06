@@ -1,0 +1,45 @@
+{
+  "students": [],
+  "attendance": [
+    {
+      "id": "2026-06-06-1773dcf4-4850-40ce-bfd7-b9143b6d53e8",
+      "date": "2026-06-06",
+      "studentId": "1773dcf4-4850-40ce-bfd7-b9143b6d53e8",
+      "name": "PUNNA",
+      "class": "Class 12",
+      "status": "Holiday"
+    }
+  ],
+  "feeTypes": [
+    {
+      "id": "fdb2acfc-420c-4f2c-9028-4b35055d0a49",
+      "name": "Monthly Tuition",
+      "category": "tuition",
+      "amount": "700",
+      "appliesTo": "All",
+      "notes": "Regular Monthly tuition fee",
+      "createdAt": "2026-06-06"
+    },
+    {
+      "id": "0eeca2ed-5e91-4890-b36e-614000fd4c71",
+      "name": "Special Exam Fee",
+      "category": "exam",
+      "amount": "200",
+      "appliesTo": "Class 10",
+      "notes": "Final mock exam fee",
+      "createdAt": "2026-06-06"
+    },
+    {
+      "id": "e0a93a4b-75ec-4daf-b3bc-c50f02727f21",
+      "name": "Practical Lab session",
+      "category": "lab",
+      "amount": "500",
+      "appliesTo": "Class 12",
+      "notes": "Lab equipment usage charge",
+      "createdAt": "2026-06-06"
+    }
+  ],
+  "feeAssignments": [],
+  "payments": [],
+  "tests": []
+}
