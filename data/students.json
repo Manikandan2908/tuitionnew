@@ -12,18 +12,6 @@
     "photo": ""
   },
   {
-    "id": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
-    "name": "RAHMAN FARIS 11TH",
-    "phone": "9092697889",
-    "phone2": "",
-    "class": "Class 11",
-    "fee": "",
-    "enrollDate": "2026-06-06",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
     "name": "YASHIKA ",
     "phone": "8667067592",
@@ -42,6 +30,18 @@
     "phone2": "",
     "class": "Class 12",
     "fee": "",
+    "enrollDate": "2026-06-06",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "name": "RAHMAN FARIS 11TH",
+    "phone": "9092697889",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
     "enrollDate": "2026-06-06",
     "closeDate": "",
     "status": "active",
