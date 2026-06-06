@@ -1,5 +1,18 @@
 {
-  "students": [],
+  "students": [
+    {
+      "id": "4ff6cd55-91de-40a5-8444-a8bc65012bb6",
+      "name": "MANIKANDAN ",
+      "phone": "8680803656",
+      "phone2": "",
+      "class": "Class 12",
+      "fee": "",
+      "enrollDate": "2026-06-06",
+      "closeDate": "",
+      "status": "active",
+      "photo": ""
+    }
+  ],
   "attendance": [
     {
       "id": "2026-06-06-1773dcf4-4850-40ce-bfd7-b9143b6d53e8",
