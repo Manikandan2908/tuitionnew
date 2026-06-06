@@ -57,5 +57,16 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mq2kx70yp2na",
+    "name": "THARUN 10TH",
+    "phone": "9597848336",
+    "class": "Class 10",
+    "fee": "700",
+    "enrollDate": "2026-06-08",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
