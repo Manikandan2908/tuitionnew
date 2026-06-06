@@ -232,35 +232,35 @@
     "status": "Present"
   },
   {
-    "id": "mq2hpcucgck9",
+    "id": "2026-06-06-mp70qd4ysi55",
     "date": "2026-06-06",
     "studentId": "mp70qd4ysi55",
     "name": "Yeshwanth",
     "class": "Class 12",
-    "status": "Present"
+    "status": "Leave"
   },
   {
-    "id": "mq2hpcuc9bw0",
+    "id": "2026-06-06-mp70pjpbg1uy",
     "date": "2026-06-06",
     "studentId": "mp70pjpbg1uy",
     "name": "chandhrikga",
     "class": "Class 10",
-    "status": "Absent"
+    "status": "Leave"
   },
   {
-    "id": "mq2hpcucilts",
+    "id": "2026-06-06-mpmtjt7gctim",
     "date": "2026-06-06",
     "studentId": "mpmtjt7gctim",
     "name": "MANIKANDAN S",
     "class": "Class 8",
-    "status": "Present"
+    "status": "Leave"
   },
   {
-    "id": "mq2hpcuc38lz",
+    "id": "2026-06-06-mp6zf1dyvptq",
     "date": "2026-06-06",
     "studentId": "mp6zf1dyvptq",
     "name": "GANANADHAN",
     "class": "Class 11",
-    "status": "Present"
+    "status": "Leave"
   }
 ]
