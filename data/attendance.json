@@ -294,5 +294,61 @@
     "name": "GANANADHAN",
     "class": "Class 11",
     "status": "Holiday"
+  },
+  {
+    "id": "2026-06-08-7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "date": "2026-06-08",
+    "studentId": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "name": "RAHMAN FARIS 11TH",
+    "class": "Class 11",
+    "status": "Absent"
+  },
+  {
+    "id": "2026-06-08-8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "date": "2026-06-08",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "name": "SYED 10TH",
+    "class": "Class 10",
+    "status": "Present"
+  },
+  {
+    "id": "2026-06-08-9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "date": "2026-06-08",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "name": "SANTHOSH 12TH",
+    "class": "Class 12",
+    "status": "Absent"
+  },
+  {
+    "id": "2026-06-08-10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "date": "2026-06-08",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "name": "YASHIKA ",
+    "class": "Class 12",
+    "status": "Absent"
+  },
+  {
+    "id": "2026-06-08-mq2kwdurb37v",
+    "date": "2026-06-08",
+    "studentId": "mq2kwdurb37v",
+    "name": "LITHISH 9TH",
+    "class": "Class 9",
+    "status": "Absent"
+  },
+  {
+    "id": "2026-06-08-mq2kxybjqafi",
+    "date": "2026-06-08",
+    "studentId": "mq2kxybjqafi",
+    "name": "KALATHEESH",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "2026-06-08-mq2kx70yp2na",
+    "date": "2026-06-08",
+    "studentId": "mq2kx70yp2na",
+    "name": "THARUN 10TH",
+    "class": "Class 10",
+    "status": "Absent"
   }
 ]
