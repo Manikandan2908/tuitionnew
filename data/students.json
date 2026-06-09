@@ -82,5 +82,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "d7394d8c-da78-4b8b-9683-1228f5383b7b",
+    "name": "LOKESH PRABHU",
+    "phone": "8012092135",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "800",
+    "enrollDate": "2026-06-09",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
