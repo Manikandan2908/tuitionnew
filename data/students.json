@@ -60,18 +60,6 @@
     "photo": ""
   },
   {
-    "id": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
-    "name": "RAHMAN FARIS 11TH",
-    "phone": "9092697889",
-    "phone2": "",
-    "class": "Class 11",
-    "fee": "800",
-    "enrollDate": "2026-06-10",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "mq2kx70yp2na",
     "name": "THARUN 10TH",
     "phone": "9597848336",
@@ -102,6 +90,18 @@
     "phone2": "",
     "class": "Class 9",
     "fee": "700",
+    "enrollDate": "2026-06-10",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "name": "RAHMAN FARIS 11TH",
+    "phone": "9092697889",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
     "enrollDate": "2026-06-10",
     "closeDate": "",
     "status": "active",
