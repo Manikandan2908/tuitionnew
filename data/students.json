@@ -106,5 +106,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mq9i1eodio9m",
+    "name": "NITISH 11TH BM",
+    "phone": "9710789303",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
+    "enrollDate": "2026-06-15",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
