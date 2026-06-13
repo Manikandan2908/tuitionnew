@@ -1,14 +1,5 @@
 [
   {
-    "id": "mp7xowigk04r",
-    "name": "Class 9,10",
-    "category": "tuition",
-    "amount": "700",
-    "appliesTo": "",
-    "notes": "",
-    "createdAt": "2026-05-16"
-  },
-  {
     "id": "mp7xp6feiznj",
     "name": "Class 11,12",
     "category": "tuition",
@@ -25,5 +16,14 @@
     "appliesTo": "All",
     "notes": "Auto monthly assigned ledger structure",
     "createdAt": "2026-05-25"
+  },
+  {
+    "id": "mp7xowigk04r",
+    "name": "Class 9",
+    "category": "tuition",
+    "amount": "700",
+    "appliesTo": "",
+    "notes": "",
+    "createdAt": "2026-06-13"
   }
 ]
