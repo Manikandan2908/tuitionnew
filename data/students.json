@@ -142,5 +142,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "1dbf8ee3-06e6-49b1-b066-95dc9e9dcd2b",
+    "name": "KRISH 12TH",
+    "phone": "9710789303",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-06-15",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
