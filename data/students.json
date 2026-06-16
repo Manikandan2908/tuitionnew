@@ -154,5 +154,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "dec5cbf1-e6a8-42c2-82cd-0949ed0c3689",
+    "name": "MONISH 12TH",
+    "phone": "9787342628",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-06-16",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
