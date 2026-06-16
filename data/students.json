@@ -166,5 +166,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "f09f3942-9d65-4f47-9b20-df4bafecb8d7",
+    "name": "SHOLAVALAVAN",
+    "phone": "9787342628",
+    "phone2": "",
+    "class": "Class 10",
+    "fee": "",
+    "enrollDate": "2026-06-16",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
