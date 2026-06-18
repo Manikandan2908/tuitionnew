@@ -178,5 +178,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "76588bb9-3bfa-41d2-a9f7-2c38c3499e73",
+    "name": "LISHANTH 8th",
+    "phone": "8610294119",
+    "phone2": "",
+    "class": "Class 8",
+    "fee": "",
+    "enrollDate": "2026-06-18",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
