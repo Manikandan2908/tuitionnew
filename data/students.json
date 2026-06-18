@@ -120,18 +120,6 @@
     "photo": ""
   },
   {
-    "id": "mq9i2w18f431",
-    "name": "MOUNEESHWAR 11TH BM",
-    "phone": "7200441499",
-    "phone2": "",
-    "class": "Class 11",
-    "fee": "800",
-    "enrollDate": "2026-06-15",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "566cd6bc-de95-4df2-9469-5452005cae47",
     "name": "MADHAV 12TH",
     "phone": "9841180482",
@@ -199,6 +187,18 @@
     "class": "Class 12",
     "fee": "",
     "enrollDate": "2026-06-18",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "mq9i2w18f431",
+    "name": "MOUNEESHWAR 11TH BM",
+    "phone": "7200441499",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
+    "enrollDate": "2026-07-01",
     "closeDate": "",
     "status": "active",
     "photo": ""
