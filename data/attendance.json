@@ -2198,5 +2198,109 @@
     "name": "LISHANTH 8th",
     "class": "Class 8",
     "status": "Holiday"
+  },
+  {
+    "id": "mqz7abuto26b",
+    "date": "2026-06-29",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "name": "SANTHOSH 12TH",
+    "class": "Class 12",
+    "status": "Absent"
+  },
+  {
+    "id": "mqz7abutydjl",
+    "date": "2026-06-29",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "name": "SYED 10TH",
+    "class": "Class 10",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutbk6v",
+    "date": "2026-06-29",
+    "studentId": "mq2kxybjqafi",
+    "name": "KALATHEESH",
+    "class": "Class 12",
+    "status": "Absent"
+  },
+  {
+    "id": "mqz7abutlrc8",
+    "date": "2026-06-29",
+    "studentId": "d7394d8c-da78-4b8b-9683-1228f5383b7b",
+    "name": "LOKESH PRABHU",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutaahm",
+    "date": "2026-06-29",
+    "studentId": "820c6619-7672-425e-8067-fef24c8e0748",
+    "name": "SANTHOSH KUMAR OTTERI",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutckg4",
+    "date": "2026-06-29",
+    "studentId": "mq2kx70yp2na",
+    "name": "THARUN 10TH",
+    "class": "Class 10",
+    "status": "Absent"
+  },
+  {
+    "id": "mqz7abutks33",
+    "date": "2026-06-29",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "name": "YASHIKA ",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutrek7",
+    "date": "2026-06-29",
+    "studentId": "mq2kwdurb37v",
+    "name": "LITHISH 9TH",
+    "class": "Class 9",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutjlhu",
+    "date": "2026-06-29",
+    "studentId": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "name": "RAHMAN FARIS 11TH",
+    "class": "Class 11",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutd9tk",
+    "date": "2026-06-29",
+    "studentId": "566cd6bc-de95-4df2-9469-5452005cae47",
+    "name": "MADHAV 12TH",
+    "class": "Class 12",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abuti67p",
+    "date": "2026-06-29",
+    "studentId": "1dbf8ee3-06e6-49b1-b066-95dc9e9dcd2b",
+    "name": "KRISH 12TH",
+    "class": "Class 12",
+    "status": "Absent"
+  },
+  {
+    "id": "mqz7abut2pwt",
+    "date": "2026-06-29",
+    "studentId": "f09f3942-9d65-4f47-9b20-df4bafecb8d7",
+    "name": "SHOLAVALAVAN",
+    "class": "Class 10",
+    "status": "Present"
+  },
+  {
+    "id": "mqz7abutxta7",
+    "date": "2026-06-29",
+    "studentId": "76588bb9-3bfa-41d2-a9f7-2c38c3499e73",
+    "name": "LISHANTH 8th",
+    "class": "Class 8",
+    "status": "Present"
   }
 ]
