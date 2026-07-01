@@ -190,5 +190,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mr25ls7dzffe",
+    "name": "Mohith 11th",
+    "phone": "7708705627",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
+    "enrollDate": "2026-07-01",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
