@@ -128,5 +128,55 @@
     "dueDate": "2026-07-10",
     "createdAt": "2026-07-01",
     "autoAssigned": true
+  },
+  {
+    "id": "mr25q1rbi2t2",
+    "studentId": "mr25jnjwfl28",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "July 2026",
+    "dueDate": "2026-07-10",
+    "createdAt": "2026-07-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "mr25q1rbdzg9",
+    "studentId": "mr25k9yywyly",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "July 2026",
+    "dueDate": "2026-07-10",
+    "createdAt": "2026-07-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "mr25q1rbr349",
+    "studentId": "mr25knte8k78",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "July 2026",
+    "dueDate": "2026-07-10",
+    "createdAt": "2026-07-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "mr25q1rcv4jw",
+    "studentId": "mr25ls7dzffe",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "July 2026",
+    "dueDate": "2026-07-10",
+    "createdAt": "2026-07-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "mr25q1rcmdis",
+    "studentId": "mr25mkux7z13",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "July 2026",
+    "dueDate": "2026-07-10",
+    "createdAt": "2026-07-01",
+    "autoAssigned": true
   }
 ]
