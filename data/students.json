@@ -178,5 +178,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mr25knte8k78",
+    "name": "GIRIRAJA",
+    "phone": "7305694560",
+    "phone2": "",
+    "class": "Class 11",
+    "fee": "800",
+    "enrollDate": "2026-07-01",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
