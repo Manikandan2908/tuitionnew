@@ -214,5 +214,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "mr5t4whs2b8z",
+    "name": "MOHAMMED WASHIK",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 10",
+    "fee": "700",
+    "enrollDate": "2026-07-04",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
