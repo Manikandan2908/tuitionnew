@@ -3006,5 +3006,157 @@
     "name": "MOHAMMED WASHIK",
     "class": "Class 10",
     "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjf1zq",
+    "date": "2026-07-05",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "name": "SANTHOSH 12TH",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czja2rb",
+    "date": "2026-07-05",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "name": "SYED 10TH",
+    "class": "Class 10",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjwu0e",
+    "date": "2026-07-05",
+    "studentId": "mq2kxybjqafi",
+    "name": "KALATHEESH",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czja6gv",
+    "date": "2026-07-05",
+    "studentId": "d7394d8c-da78-4b8b-9683-1228f5383b7b",
+    "name": "LOKESH PRABHU",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjxzke",
+    "date": "2026-07-05",
+    "studentId": "820c6619-7672-425e-8067-fef24c8e0748",
+    "name": "SANTHOSH KUMAR OTTERI",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjyszk",
+    "date": "2026-07-05",
+    "studentId": "mq2kx70yp2na",
+    "name": "THARUN 10TH",
+    "class": "Class 10",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czj8x54",
+    "date": "2026-07-05",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "name": "YASHIKA ",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjtwe9",
+    "date": "2026-07-05",
+    "studentId": "mq2kwdurb37v",
+    "name": "LITHISH 9TH",
+    "class": "Class 9",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjue95",
+    "date": "2026-07-05",
+    "studentId": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "name": "RAHMAN FARIS 11TH",
+    "class": "Class 11",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czj62hb",
+    "date": "2026-07-05",
+    "studentId": "566cd6bc-de95-4df2-9469-5452005cae47",
+    "name": "MADHAV 12TH",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjg52l",
+    "date": "2026-07-05",
+    "studentId": "1dbf8ee3-06e6-49b1-b066-95dc9e9dcd2b",
+    "name": "KRISH 12TH",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czj2do0",
+    "date": "2026-07-05",
+    "studentId": "f09f3942-9d65-4f47-9b20-df4bafecb8d7",
+    "name": "SHOLAVALAVAN",
+    "class": "Class 10",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjp8vr",
+    "date": "2026-07-05",
+    "studentId": "76588bb9-3bfa-41d2-a9f7-2c38c3499e73",
+    "name": "LISHANTH 8th",
+    "class": "Class 8",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjdpec",
+    "date": "2026-07-05",
+    "studentId": "mr25jnjwfl28",
+    "name": "MONISH 11TH ACCOUNTS",
+    "class": "Class 11",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjkqyj",
+    "date": "2026-07-05",
+    "studentId": "mr25k9yywyly",
+    "name": "SUJAN 11TH",
+    "class": "Class 11",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjqwb5",
+    "date": "2026-07-05",
+    "studentId": "mr25knte8k78",
+    "name": "GIRIRAJA",
+    "class": "Class 11",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czj24zc",
+    "date": "2026-07-05",
+    "studentId": "mr25ls7dzffe",
+    "name": "Mohith 11th",
+    "class": "Class 11",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czjhk33",
+    "date": "2026-07-05",
+    "studentId": "mr25mkux7z13",
+    "name": "Kishore 12th",
+    "class": "Class 12",
+    "status": "Holiday"
+  },
+  {
+    "id": "mr5t7czj0spk",
+    "date": "2026-07-05",
+    "studentId": "mr5t4whs2b8z",
+    "name": "MOHAMMED WASHIK",
+    "class": "Class 10",
+    "status": "Holiday"
   }
 ]
