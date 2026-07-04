@@ -1,15 +1,5 @@
 [
   {
-    "id": "mr1f4w8jnt4c",
-    "studentId": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
-    "feeTypeId": "mpldcrt6d6pres",
-    "amount": "800",
-    "period": "July 2026",
-    "dueDate": "2026-07-10",
-    "createdAt": "2026-07-01",
-    "autoAssigned": true
-  },
-  {
     "id": "mr1f4w8jtnpf",
     "studentId": "566cd6bc-de95-4df2-9469-5452005cae47",
     "feeTypeId": "mpldcrt6d6pres",
