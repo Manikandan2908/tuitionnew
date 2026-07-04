@@ -43,5 +43,14 @@
     "period": "June 2026",
     "dueDate": "",
     "createdAt": "2026-07-04"
+  },
+  {
+    "id": "mr5tokom90e3",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "400",
+    "period": "June 2026",
+    "dueDate": "",
+    "createdAt": "2026-07-04"
   }
 ]
