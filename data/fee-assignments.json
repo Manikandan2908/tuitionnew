@@ -6,7 +6,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tmt84yj32",
@@ -15,7 +16,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tnds7xq7a",
@@ -24,7 +26,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tnsk3k9kg",
@@ -33,7 +36,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tobqcot9m",
@@ -42,7 +46,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tokom90e3",
@@ -51,7 +56,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tpcrrafaw",
@@ -60,7 +66,8 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   },
   {
     "id": "mr5tpu1iatpn",
@@ -69,6 +76,7 @@
     "amount": "400",
     "period": "June 2026",
     "dueDate": "",
-    "createdAt": "2026-07-04"
+    "createdAt": "2026-07-04",
+    "autoAssigned": false
   }
 ]
