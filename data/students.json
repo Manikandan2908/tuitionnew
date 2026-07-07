@@ -226,5 +226,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "7b70eb00-c473-4aba-bb7a-33bd9e6ad1c9",
+    "name": "Dharshan 12th",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-07-07",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
