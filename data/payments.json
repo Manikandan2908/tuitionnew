@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "b8edf249-68d3-4abb-9ac0-1e0e3f9b1a75",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "mr5tmt84yj32",
+    "feeTypeName": "Monthly Tuition",
+    "period": "June 2026",
+    "amount": "400",
+    "date": "2026-07-07",
+    "note": "",
+    "recordedAt": "2026-07-07"
+  }
+]
