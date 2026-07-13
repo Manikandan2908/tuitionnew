@@ -88,5 +88,15 @@
     "dueDate": "",
     "createdAt": "2026-07-11",
     "autoAssigned": false
+  },
+  {
+    "id": "c7b532d0-e5e0-4e11-87fc-1e0e2a05905b",
+    "studentId": "mq2kwdurb37v",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "July",
+    "dueDate": "",
+    "createdAt": "2026-07-13",
+    "autoAssigned": false
   }
 ]
