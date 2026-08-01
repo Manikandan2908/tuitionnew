@@ -250,5 +250,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "69baf688-58e0-4edd-84d2-13aa6297cc44",
+    "name": "Nirmal Kumar 12th ",
+    "phone": "9962826359",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-08-01",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
