@@ -84,18 +84,6 @@
     "photo": ""
   },
   {
-    "id": "mq2kwdurb37v",
-    "name": "LITHISH 9TH",
-    "phone": "9791172661",
-    "phone2": "",
-    "class": "Class 9",
-    "fee": "700",
-    "enrollDate": "2026-06-10",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
     "name": "RAHMAN FARIS 11TH",
     "phone": "9092697889",
@@ -271,6 +259,18 @@
     "class": "Class 8",
     "fee": "300",
     "enrollDate": "2026-08-06",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "mq2kwdurb37v",
+    "name": "LITHISH 9TH",
+    "phone": "9791172661",
+    "phone2": "",
+    "class": "Class 9",
+    "fee": "600",
+    "enrollDate": "2026-06-10",
     "closeDate": "",
     "status": "active",
     "photo": ""
