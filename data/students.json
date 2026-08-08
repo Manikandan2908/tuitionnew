@@ -252,18 +252,6 @@
     "photo": ""
   },
   {
-    "id": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
-    "name": "Janarthanan 9th ",
-    "phone": "9626680414",
-    "phone2": "",
-    "class": "Class 8",
-    "fee": "300",
-    "enrollDate": "2026-08-06",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "mq2kwdurb37v",
     "name": "LITHISH 9TH",
     "phone": "9791172661",
@@ -271,6 +259,18 @@
     "class": "Class 9",
     "fee": "600",
     "enrollDate": "2026-06-10",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
+    "name": "Janarthanan 9th ",
+    "phone": "9626680414",
+    "phone2": "",
+    "class": "Class 9",
+    "fee": "300",
+    "enrollDate": "2026-08-06",
     "closeDate": "",
     "status": "active",
     "photo": ""
