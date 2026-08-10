@@ -228,18 +228,6 @@
     "photo": ""
   },
   {
-    "id": "17e4f321-1381-46a6-b468-931e37aaa22d",
-    "name": "KRISHNA KUMAR ",
-    "phone": "6383937367",
-    "phone2": "",
-    "class": "Class 10",
-    "fee": "",
-    "enrollDate": "2026-07-10",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "69baf688-58e0-4edd-84d2-13aa6297cc44",
     "name": "Nirmal Kumar 12th ",
     "phone": "9962826359",
@@ -283,6 +271,18 @@
     "class": "Class 9",
     "fee": "",
     "enrollDate": "2026-08-08",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "17e4f321-1381-46a6-b468-931e37aaa22d",
+    "name": "KRISHNA KUMAR ",
+    "phone": "6383937367",
+    "phone2": "",
+    "class": "Class 10",
+    "fee": "700",
+    "enrollDate": "2026-07-10",
     "closeDate": "",
     "status": "active",
     "photo": ""
