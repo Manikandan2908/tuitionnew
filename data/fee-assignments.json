@@ -260,16 +260,6 @@
     "autoAssigned": true
   },
   {
-    "id": "ms7ioxgcf90u",
-    "studentId": "mr25mkux7z13",
-    "feeTypeId": "mpldcrt6d6pres",
-    "amount": "800",
-    "period": "July 2026",
-    "dueDate": "2026-08-31",
-    "createdAt": "2026-07-30",
-    "autoAssigned": true
-  },
-  {
     "id": "ms7ioxgckcow",
     "studentId": "mr5t4whs2b8z",
     "feeTypeId": "mpldcrt6d6pres",
