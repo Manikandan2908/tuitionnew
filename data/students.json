@@ -192,18 +192,6 @@
     "photo": ""
   },
   {
-    "id": "mr25mkux7z13",
-    "name": "Kishore 12th",
-    "phone": "8939870577",
-    "phone2": "",
-    "class": "Class 12",
-    "fee": "800",
-    "enrollDate": "2026-07-01",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "mr5t4whs2b8z",
     "name": "MOHAMMED WASHIK",
     "phone": "0000000000",
@@ -283,6 +271,18 @@
     "class": "Class 10",
     "fee": "700",
     "enrollDate": "2026-07-10",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "mr25mkux7z13",
+    "name": "Kishore 12th",
+    "phone": "8939870577",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "700",
+    "enrollDate": "2026-07-01",
     "closeDate": "",
     "status": "active",
     "photo": ""
