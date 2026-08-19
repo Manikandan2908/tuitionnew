@@ -192,18 +192,6 @@
     "photo": ""
   },
   {
-    "id": "7b70eb00-c473-4aba-bb7a-33bd9e6ad1c9",
-    "name": "Dharshan 12th",
-    "phone": "0000000000",
-    "phone2": "",
-    "class": "Class 12",
-    "fee": "",
-    "enrollDate": "2026-07-07",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "69baf688-58e0-4edd-84d2-13aa6297cc44",
     "name": "Nirmal Kumar 12th ",
     "phone": "9962826359",
@@ -283,6 +271,18 @@
     "class": "Class 8",
     "fee": "600",
     "enrollDate": "2026-06-18",
+    "closeDate": "",
+    "status": "inactive",
+    "photo": ""
+  },
+  {
+    "id": "7b70eb00-c473-4aba-bb7a-33bd9e6ad1c9",
+    "name": "Dharshan 12th",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-07-07",
     "closeDate": "",
     "status": "inactive",
     "photo": ""
