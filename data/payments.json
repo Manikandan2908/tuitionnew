@@ -214,5 +214,41 @@
     "date": "2026-08-13",
     "note": "",
     "recordedAt": "2026-08-13"
+  },
+  {
+    "id": "27fae324-9503-4b41-92e6-947b7cf669b8",
+    "studentId": "566cd6bc-de95-4df2-9469-5452005cae47",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "ms7ioxgbuvpg",
+    "feeTypeName": "Monthly Tuition",
+    "period": "July 2026",
+    "amount": "800",
+    "date": "2026-08-17",
+    "note": "",
+    "recordedAt": "2026-08-17"
+  },
+  {
+    "id": "5997568d-51d6-44cb-ada2-4e395155cb56",
+    "studentId": "f09f3942-9d65-4f47-9b20-df4bafecb8d7",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "ms7ioxgcpme2",
+    "feeTypeName": "Monthly Tuition",
+    "period": "July 2026",
+    "amount": "800",
+    "date": "2026-08-19",
+    "note": "",
+    "recordedAt": "2026-08-19"
+  },
+  {
+    "id": "3265286c-f5c0-4798-bde9-175637c86202",
+    "studentId": "mr25k9yywyly",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "ms7ioxgcw24g",
+    "feeTypeName": "Monthly Tuition",
+    "period": "July 2026",
+    "amount": "700",
+    "date": "2026-08-19",
+    "note": "",
+    "recordedAt": "2026-08-19"
   }
 ]
