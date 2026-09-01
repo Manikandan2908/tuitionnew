@@ -298,5 +298,225 @@
     "dueDate": "",
     "createdAt": "2026-08-12",
     "autoAssigned": false
+  },
+  {
+    "id": "ca7ea41a-8a47-4ad4-a60b-d9a0eda31b7d",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "54464d81-dfea-49eb-9178-43cb194a5b50",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "a96ddde4-e3c9-491f-b3ce-d19efd5bcbba",
+    "studentId": "mq2kxybjqafi",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "285ab35b-95ec-48c5-a0b3-78261449eb74",
+    "studentId": "d7394d8c-da78-4b8b-9683-1228f5383b7b",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "ed83d36e-d74e-4917-bbb0-778d29ddcc04",
+    "studentId": "820c6619-7672-425e-8067-fef24c8e0748",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "c75e766c-591f-44ae-98f3-084686955cea",
+    "studentId": "mq2kx70yp2na",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "a18d662f-533e-44bb-9b20-28502c9efa23",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "70bc3db6-a021-4106-8c5b-b207b31922a2",
+    "studentId": "7da4047b-cbee-4dd0-845e-711e3c4ac925",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "e185c2e0-ffc0-4373-a504-7c6982382cbc",
+    "studentId": "566cd6bc-de95-4df2-9469-5452005cae47",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "414516ab-e6ab-46a5-92b0-466737e1e9f2",
+    "studentId": "1dbf8ee3-06e6-49b1-b066-95dc9e9dcd2b",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "94aec95e-4260-453c-b54c-4d39618ed676",
+    "studentId": "f09f3942-9d65-4f47-9b20-df4bafecb8d7",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "ff39f822-01c3-4a0d-819b-4fc8d6e9d74a",
+    "studentId": "mr25jnjwfl28",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "915c8fa7-2ba8-498e-a677-e15cbe2bf658",
+    "studentId": "mr25k9yywyly",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "e24caf41-f3b0-42a0-a73f-701a101b8a2e",
+    "studentId": "mr25knte8k78",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "3d578191-f1a5-42df-b91b-b342e29a09a6",
+    "studentId": "mr25ls7dzffe",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "ecb92a73-9313-4f16-b121-e6895c490840",
+    "studentId": "mr5t4whs2b8z",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "def05e79-134a-413a-a2a2-7c87936d8d7b",
+    "studentId": "69baf688-58e0-4edd-84d2-13aa6297cc44",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "7613525a-2890-48d8-8279-dce32696dc9c",
+    "studentId": "mq2kwdurb37v",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "600",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "09add536-f76a-4c45-83ee-fdd604cc9c93",
+    "studentId": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "300",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "7a6e61d5-f9c5-4de1-a53e-5b030b87df63",
+    "studentId": "9ff935d1-728f-4f4e-beae-7b7822b837b1",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "6ebe6ba4-e3de-4221-a8aa-4fd137a63886",
+    "studentId": "17e4f321-1381-46a6-b468-931e37aaa22d",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
+  },
+  {
+    "id": "bfc6b1df-4fc4-4d11-b058-4ef9c2437d7b",
+    "studentId": "mr25mkux7z13",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "700",
+    "period": "August",
+    "dueDate": "2026-09-30",
+    "createdAt": "2026-09-01",
+    "autoAssigned": true
   }
 ]
