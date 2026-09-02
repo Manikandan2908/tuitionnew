@@ -286,5 +286,17 @@
     "closeDate": "",
     "status": "inactive",
     "photo": ""
+  },
+  {
+    "id": "0b3c39f7-bc35-45c7-9d7f-1131b2817499",
+    "name": "NAVEEN 12TH OMNAGAR",
+    "phone": "7373073018",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "800",
+    "enrollDate": "2026-08-01",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
