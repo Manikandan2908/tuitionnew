@@ -502,5 +502,17 @@
     "date": "2026-09-10",
     "note": "",
     "recordedAt": "2026-09-13T12:02:49.037Z"
+  },
+  {
+    "id": "mtzrm85cadnq",
+    "studentId": "mr25mkux7z13",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "bfc6b1df-4fc4-4d11-b058-4ef9c2437d7b",
+    "feeTypeName": "Monthly Tuition",
+    "period": "September 2026",
+    "amount": "700",
+    "date": "2026-09-12",
+    "note": "",
+    "recordedAt": "2026-09-13T12:03:20.640Z"
   }
 ]
