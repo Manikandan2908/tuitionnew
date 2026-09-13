@@ -473,10 +473,10 @@
     "id": "09add536-f76a-4c45-83ee-fdd604cc9c93",
     "studentId": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
     "feeTypeId": "mpldcrt6d6pres",
-    "amount": "300",
+    "amount": "0",
     "period": "August",
     "dueDate": "2026-09-30",
-    "createdAt": "2026-09-01",
+    "createdAt": "2026-09-13",
     "autoAssigned": true
   },
   {
