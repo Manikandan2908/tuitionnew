@@ -298,5 +298,17 @@
     "closeDate": "",
     "status": "inactive",
     "photo": ""
+  },
+  {
+    "id": "affcc846-ecb5-4892-b3e9-06c28bd68656",
+    "name": "PREM 12TH TUITION ",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "800",
+    "enrollDate": "2026-10-14",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
