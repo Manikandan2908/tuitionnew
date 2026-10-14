@@ -60,18 +60,6 @@
     "photo": ""
   },
   {
-    "id": "mq2kx70yp2na",
-    "name": "THARUN 10TH",
-    "phone": "9597848336",
-    "phone2": "",
-    "class": "Class 10",
-    "fee": "700",
-    "enrollDate": "2026-06-15",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
     "name": "YASHIKA ",
     "phone": "8667067592",
@@ -295,6 +283,18 @@
     "class": "Class 9",
     "fee": "",
     "enrollDate": "2026-08-08",
+    "closeDate": "",
+    "status": "inactive",
+    "photo": ""
+  },
+  {
+    "id": "mq2kx70yp2na",
+    "name": "THARUN 10TH",
+    "phone": "9597848336",
+    "phone2": "",
+    "class": "Class 10",
+    "fee": "700",
+    "enrollDate": "2026-06-15",
     "closeDate": "",
     "status": "inactive",
     "photo": ""
