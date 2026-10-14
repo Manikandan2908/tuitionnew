@@ -322,5 +322,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "6ede87fe-c24b-4ab9-80d7-ad3f10685d8e",
+    "name": "ROKESHWAR BOYS SCHOOL ",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 10",
+    "fee": "800",
+    "enrollDate": "2026-10-14",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
