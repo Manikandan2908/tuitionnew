@@ -310,5 +310,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "c09128c7-8798-4e8d-a738-f454beb19cf9",
+    "name": "Alwyn Amos Britger",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 9",
+    "fee": "",
+    "enrollDate": "2026-10-14",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
