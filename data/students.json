@@ -228,18 +228,6 @@
     "photo": ""
   },
   {
-    "id": "9ff935d1-728f-4f4e-beae-7b7822b837b1",
-    "name": "vimalesh ",
-    "phone": "9962826359",
-    "phone2": "",
-    "class": "Class 9",
-    "fee": "",
-    "enrollDate": "2026-08-08",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "17e4f321-1381-46a6-b468-931e37aaa22d",
     "name": "KRISHNA KUMAR ",
     "phone": "6383937367",
@@ -297,6 +285,18 @@
     "enrollDate": "2026-08-01",
     "closeDate": "",
     "status": "active",
+    "photo": ""
+  },
+  {
+    "id": "9ff935d1-728f-4f4e-beae-7b7822b837b1",
+    "name": "vimalesh ",
+    "phone": "9962826359",
+    "phone2": "",
+    "class": "Class 9",
+    "fee": "",
+    "enrollDate": "2026-08-08",
+    "closeDate": "",
+    "status": "inactive",
     "photo": ""
   }
 ]
