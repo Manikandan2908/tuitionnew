@@ -766,5 +766,29 @@
     "date": "2026-10-22",
     "note": "",
     "recordedAt": "2026-10-22"
+  },
+  {
+    "id": "6d0d3b42-c0a7-47d8-9955-5423faaf4790",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "ca7ea41a-8a47-4ad4-a60b-d9a0eda31b7d",
+    "feeTypeName": "Monthly Tuition",
+    "period": "August",
+    "amount": "800",
+    "date": "2026-10-27",
+    "note": "",
+    "recordedAt": "2026-10-27"
+  },
+  {
+    "id": "cbace85d-624a-462a-81ee-a2ef3ca9dcef",
+    "studentId": "10ee090c-7e27-4dbd-90c3-83ee23be05fe",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "80c308ac-9226-419e-b03f-814a5c9e516a",
+    "feeTypeName": "Monthly Tuition",
+    "period": "September",
+    "amount": "800",
+    "date": "2026-10-27",
+    "note": "",
+    "recordedAt": "2026-10-27"
   }
 ]
