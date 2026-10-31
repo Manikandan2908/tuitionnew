@@ -720,16 +720,6 @@
     "autoAssigned": true
   },
   {
-    "id": "mvway5z7tj6e",
-    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
-    "feeTypeId": "mpldcrt6d6pres",
-    "amount": "800",
-    "period": "November 2026",
-    "dueDate": "2026-11-10",
-    "createdAt": "2026-10-31",
-    "autoAssigned": true
-  },
-  {
     "id": "mvway5z7tfaw",
     "studentId": "mq2kxybjqafi",
     "feeTypeId": "mpldcrt6d6pres",
@@ -942,6 +932,26 @@
   {
     "id": "mvway5z872ck",
     "studentId": "6ede87fe-c24b-4ab9-80d7-ad3f10685d8e",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "November 2026",
+    "dueDate": "2026-11-10",
+    "createdAt": "2026-10-31",
+    "autoAssigned": true
+  },
+  {
+    "id": "mvwazuxggs8m",
+    "studentId": "9b5fccf7-1a55-48ab-b4ee-c65bef557736",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "November 2026",
+    "dueDate": "2026-11-10",
+    "createdAt": "2026-10-31",
+    "autoAssigned": true
+  },
+  {
+    "id": "mvwazuxg9w7n",
+    "studentId": "8adc2146-91e6-4ba1-aba5-22b73f97f2a2",
     "feeTypeId": "mpldcrt6d6pres",
     "amount": "800",
     "period": "November 2026",
