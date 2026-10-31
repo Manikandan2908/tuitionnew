@@ -720,16 +720,6 @@
     "autoAssigned": true
   },
   {
-    "id": "mvway5z7tfaw",
-    "studentId": "mq2kxybjqafi",
-    "feeTypeId": "mpldcrt6d6pres",
-    "amount": "800",
-    "period": "November 2026",
-    "dueDate": "2026-11-10",
-    "createdAt": "2026-10-31",
-    "autoAssigned": true
-  },
-  {
     "id": "mvway5z7l65w",
     "studentId": "d7394d8c-da78-4b8b-9683-1228f5383b7b",
     "feeTypeId": "mpldcrt6d6pres",
