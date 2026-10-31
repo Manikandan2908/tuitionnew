@@ -948,5 +948,15 @@
     "dueDate": "2026-11-10",
     "createdAt": "2026-10-31",
     "autoAssigned": true
+  },
+  {
+    "id": "mvwb01lgrl1b",
+    "studentId": "mq2kxybjqafi",
+    "feeTypeId": "mpldcrt6d6pres",
+    "amount": "800",
+    "period": "November 2026",
+    "dueDate": "2026-11-10",
+    "createdAt": "2026-10-31",
+    "autoAssigned": true
   }
 ]
