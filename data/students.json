@@ -334,5 +334,17 @@
     "closeDate": "",
     "status": "active",
     "photo": ""
+  },
+  {
+    "id": "954ab1bd-f3cb-4fa2-94b7-cf31e3cd81ee",
+    "name": "Preethish ",
+    "phone": "0000000000",
+    "phone2": "",
+    "class": "Class 12",
+    "fee": "",
+    "enrollDate": "2026-10-15",
+    "closeDate": "",
+    "status": "active",
+    "photo": ""
   }
 ]
