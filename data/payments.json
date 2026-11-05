@@ -838,5 +838,17 @@
     "date": "2026-11-05",
     "note": "",
     "recordedAt": "2026-11-05"
+  },
+  {
+    "id": "c7906add-29e1-4203-a106-ddac4a50e3f6",
+    "studentId": "mr25jnjwfl28",
+    "feeTypeId": "mpldcrt6d6pres",
+    "feeAssignmentId": "cd8975c3-ca3b-45eb-8284-2bc036bbc4db",
+    "feeTypeName": "Monthly Tuition",
+    "period": "October",
+    "amount": "500",
+    "date": "2026-11-05",
+    "note": "",
+    "recordedAt": "2026-11-05"
   }
 ]
