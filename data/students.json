@@ -192,18 +192,6 @@
     "photo": ""
   },
   {
-    "id": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
-    "name": "Janarthanan 9th ",
-    "phone": "9626680414",
-    "phone2": "",
-    "class": "Class 9",
-    "fee": "300",
-    "enrollDate": "2026-08-06",
-    "closeDate": "",
-    "status": "active",
-    "photo": ""
-  },
-  {
     "id": "17e4f321-1381-46a6-b468-931e37aaa22d",
     "name": "KRISHNA KUMAR ",
     "phone": "6383937367",
@@ -343,6 +331,18 @@
     "class": "Class 12",
     "fee": "",
     "enrollDate": "2026-08-01",
+    "closeDate": "",
+    "status": "inactive",
+    "photo": ""
+  },
+  {
+    "id": "a1bb5161-50cf-44ca-8dfd-6c5620facc74",
+    "name": "Janarthanan 9th ",
+    "phone": "9626680414",
+    "phone2": "",
+    "class": "Class 9",
+    "fee": "300",
+    "enrollDate": "2026-08-06",
     "closeDate": "",
     "status": "inactive",
     "photo": ""
